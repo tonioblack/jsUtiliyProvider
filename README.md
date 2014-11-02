@@ -25,5 +25,5 @@ An example here:
 ```
 Noe is the time to list the implemented stuff:
 
-Bynary seatch tree
+Bynary search tree
 ==================
